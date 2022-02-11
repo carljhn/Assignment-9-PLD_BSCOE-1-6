@@ -1,0 +1,44 @@
+{
+    "PERSONAL INFORMATION": [
+        {
+            	"Age": "18 years old",
+            	"Birthday": "February 12, 2003",
+            	"Birthplace": "Quezon Province",
+            	"Sex": "Male",
+            	"Marital Status": "Single",
+            	"Nationality": "Filipino"
+        }
+    ],
+    "OBJECTIVE": [
+        "Secure a responsible career opportunity to fully utilize my training and skills, while making a significant contribution to the success of the company."
+    ],
+    "EDUCATIONAL BACKGROUND": [
+        {
+             
+                "TertiarySchool": "Polytechnic University of the Philippines",
+                "TertiaryCourse": "Bachelor of Science in Computer Engineering",
+                "TertiaryAddress": "Sta. Mesa, Manila",
+                "TertiaryYear": "2021-Present",
+                "SecondarySchool": "Sacred Heart Academy of Sta. Maria, Bualcan", 
+                "SecondaryLevel": "Senior High School", 
+                "SecondaryAddress": "Sta. Maria, Bulacan", 
+                "SecondaryYear": "2019-2021",
+                "PrimarySchool": "Benito Nieto Elementary School", 
+                "PrimaryLevel": "Elementary", 
+                "PrimaryAddress": "San Jose Del Monte, Bulacan",
+                "PrimaryYear": "2009-2015"
+        }
+    ],
+    "SKILLS": [
+	{
+        	"Skill_1": "Good communication skills",
+        	"Skill_2": "Creative",
+        	"Skill_3": "Good in idea formation to achieve a common goal",
+        	"Skill_4": "Capable of working independently or as part of a team"
+	}
+    ],
+    "LANGUAGES SPOKEN": {
+        "Language_1": "Filipino",
+        "Language_2": "English"
+    }
+}
