@@ -36,3 +36,9 @@ cjzoleta.cell(20, 6, "          Sex                         : " +str(myData["PER
 cjzoleta.cell(20, 6, "          Marital Status         : " +str(myData["PERSONAL INFORMATION"][0]["Marital Status"]), 0, 2)
 cjzoleta.cell(20, 6, "          Nationality              : " +str(myData["PERSONAL INFORMATION"][0]["Nationality"]), 0, 2)
 cjzoleta.cell(60, 6,"-"*133, 0, 2)
+#Objective
+cjzoleta.set_font("Arial", "B", 14)
+cjzoleta.cell(60, 10, "OBJECTIVE", 0, 2)
+cjzoleta.set_font("Arial", "", 12)
+cjzoleta.multi_cell(180, 6, "" +str(myData["OBJECTIVE"][0]), 0)
+cjzoleta.cell(60, 7,"-"*133, 0, 2)
