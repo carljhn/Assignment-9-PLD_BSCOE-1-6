@@ -68,3 +68,12 @@ cjzoleta.cell(20, 7, "          " +str(myData["EDUCATIONAL BACKGROUND"][0]["Prim
 cjzoleta.cell(20, 7, "          " +str(myData["EDUCATIONAL BACKGROUND"][0]["PrimaryYear"]), 0, 2)
 cjzoleta.add_page()
 cjzoleta.cell(60, 7,"-"*133, 0, 2)
+#Skills
+cjzoleta.set_font("Arial", "B", 14)
+cjzoleta.cell(60, 10, "SKILLS", 0, 2)
+cjzoleta.set_font("Arial", "", 12)
+cjzoleta.cell(20, 6, "          " +str(myData["SKILLS"][0]["Skill_1"]), 0, 2)
+cjzoleta.cell(20, 6, "          " +str(myData["SKILLS"][0]["Skill_2"]), 0, 2)
+cjzoleta.cell(20, 6, "          " +str(myData["SKILLS"][0]["Skill_3"]), 0, 2)
+cjzoleta.cell(20, 6, "          " +str(myData["SKILLS"][0]["Skill_4"]), 0, 2)
+cjzoleta.cell(60, 7,"-"*133, 0, 2)
