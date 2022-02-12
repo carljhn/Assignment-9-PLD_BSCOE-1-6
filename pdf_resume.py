@@ -83,3 +83,5 @@ cjzoleta.cell(60, 10, "LANGUAGES SPOKEN", 0, 2)
 cjzoleta.set_font("Arial", "", 12)
 cjzoleta.cell(20, 7, "          " +str(myData["LANGUAGES SPOKEN"]["Language_1"]), 0, 2)
 cjzoleta.cell(20, 7, "          " +str(myData["LANGUAGES SPOKEN"]["Language_2"]), 0, 2)
+
+cjzoleta.output("ZOLETA_CARL_JOHN.pdf", "F")
